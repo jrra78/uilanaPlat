@@ -15,15 +15,7 @@ Las tarifas máximas se aplicarán tomando como base el tiempo efectivo que dure
 | PL           | Plataforma        |
 | PLS          | Plataforma superior |
 | PU           | Pluma con sujetador por eje o de chasis (under-lift) |
-
-
-
-
-
-5.5 PW.- PLUMA CON SUJETADOR DE LLANTAS (WHEEL-LIFT)
-
-5.6 T.- TOPE
-
-5.7 U.- SUJETADOR POR EJE O DE CHASIS (UNDER-LIFT)
-
-5.8 W.- SUJETADOR DE LLANTAS (WHEEL-LIFT)
+| PW           | Pluma con sujetador de llantas (Wheel-lift) |
+| T            | Tope |
+| U            | Sujetador por eje o de chasis (under-lift) |
+| W            | Sujetador de llantas (Wheel-lift) |
