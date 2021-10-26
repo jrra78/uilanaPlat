@@ -14,11 +14,11 @@ Las tarifas máximas se aplicarán tomando como base el tiempo efectivo que dure
 | P            | Pluma con tope    |
 | PL           | Plataforma        |
 | PLS          | Plataforma superior |
+| PU           | Pluma con sujetador por eje o de chasis (under-lift) |
 
 
 
 
-5.4 PU.- PLUMA CON SUJETADOR POR EJE O DE CHASIS (UNDER-LIFT)
 
 5.5 PW.- PLUMA CON SUJETADOR DE LLANTAS (WHEEL-LIFT)
 
