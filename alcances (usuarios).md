@@ -3,7 +3,7 @@
 ### Numero de Empresas
 
 | Tipo de empresa | Estratos en <br> unidades | 2018 | 2019 |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | Hombre - camión | 1-5 | 2,708 | 1,838 |
 | Pequeña | 6-30 | 566 | 540 |
 | Mediana | 31 - 100 | 18 | 20 |
@@ -13,7 +13,7 @@
 ### Numero de Vehiculos
 
 | Tipo de empresa | Estratos en <br> unidades | 2018 | 2019 |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | Hombre - camión | 1-5 | 5,468 | 4,245 |
 | Pequeña | 6-30 | 5,865 | 5,717 |
 | Mediana | 31 - 100 | 726 | 819 |
