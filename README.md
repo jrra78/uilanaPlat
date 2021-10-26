@@ -10,7 +10,10 @@ Las tarifas máximas se aplicarán tomando como base el tiempo efectivo que dure
 
 | Tipo | Peso vehicular <br> minimo del <br> chasis cabina| Clase de equipo de grua | Capacidad | Arraste de <br> vehiculos cuyo peso <br> bruto vehicular no <br> excedan de:|
 | :---  | :--- | :--- | :--- |  :--- |
-| A     | 2300 kg | P, o PW o W y T | Uno | 3500 kg | 
+| A     | 2,300 kg | P, o PW o W y T | Uno | 3,500 kg | 
+| B     | 3,500 kg | P, o PW o W y T | Uno | De 3,501 kg a 6,000 kg | 
+| C     | 4,300 kg | P, o PW, o PU, o U y T | Uno | De 6,001 kg a 12,000 kg | 
+| D     | 7,500 kg | P, o PU, o U y T | Uno, o un T-S | 6de 12,001 a 25,000 kg | 
 
 
 | Abreviatura  | Descripción    |  
