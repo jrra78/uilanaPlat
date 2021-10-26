@@ -20,8 +20,8 @@
 | Grande  | Más de 100 | 126 | 119 |
 
 
-[Estadisticas SCT 2018](http://www.sct.gob.mx/fileadmin/DireccionesGrales/DGAF/EST_BASICA/EST_BASICA_2018/Estad%C3%ADstica_B%C3%A1sica_del_Autotransporte_Federal_2018.pdf)
-[Estadisticas SCT 2019](http://www.sct.gob.mx/fileadmin/DireccionesGrales/DGAF/EST_BASICA/EST_BASICA_2019/Estad%C3%ADstica_B%C3%A1sica_del_Autotransporte_Federal_2019.pdf)
+[Estadisticas SCT 2018](http://www.sct.gob.mx/fileadmin/DireccionesGrales/DGAF/EST_BASICA/EST_BASICA_2018/Estad%C3%ADstica_B%C3%A1sica_del_Autotransporte_Federal_2018.pdf) <br>
+[Estadisticas SCT 2019](http://www.sct.gob.mx/fileadmin/DireccionesGrales/DGAF/EST_BASICA/EST_BASICA_2019/Estad%C3%ADstica_B%C3%A1sica_del_Autotransporte_Federal_2019.pdf) <br>
 
 
 
