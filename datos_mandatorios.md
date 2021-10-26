@@ -28,6 +28,7 @@
 | :--- | :--- |
 | Numero de servicio | Identificador del servicio de salvamento / arrastre |
 | Folio carta porte | ??? |
+| Carta porte | BLOB carta porte que ampara el traslado |
 | Estado | Estado de la respublica donde se brinda el servicio |
 | num proveedor | Numero de proveedor |
 | Permisionario | Nombre o razon social del permisionario |
@@ -46,3 +47,7 @@
 | Salvamento | Boleano Falso / Verdadero |
 | Arrastre | Boleano (falso / verdadero) - valor defacto en verdadero |
 | Distancia | Distancia recorrida en kilometros |
+| Origen | Coordenas del punto donde se recolecta el vehiculo |
+| Destino | Coordenadas del punto donde se entrega el vehiculo |
+| Costo Salvamento | Costo del salvamento - Tarifa Evento x Factor de costo |
+| Costo arrastre   | Costo del servicio de arrastre - Numero de kilometros x Tarifa x Factor de costo |
