@@ -11,19 +11,19 @@ Las tarifas máximas se aplicarán tomando como base el tiempo efectivo que dure
 ### Gruas de pluma de arrastre o arrastre y salvamento
 | Tipo | Peso vehicular <br> minimo del <br> chasis cabina| Clase de equipo de grua | Capacidad | Arraste de <br> vehiculos cuyo peso <br> bruto vehicular no <br> excedan de:|
 | :---  | :--- | :--- | :--- |  :--- |
-| A     | 2,300 kg | P, o PW o W y T | Uno | 3,500 kg | 
-| B     | 3,500 kg | P, o PW o W y T | Uno | De 3,501 kg a 6,000 kg | 
-| C     | 4,300 kg | P, o PW, o PU, o U y T | Uno | De 6,001 kg a 12,000 kg | 
-| D     | 7,500 kg | P, o PU, o U y T | Uno, o un T-S | 6de 12,001 a 25,000 kg | 
+| A     | 2,300 kg | P, ó PW ó W y T | Uno | 3,500 kg | 
+| B     | 3,500 kg | P, ó  PW ó  W y T | Uno | De 3,501 kg a 6,000 kg | 
+| C     | 4,300 kg | P, ó  PW, ó  PU, ó  U y T | Uno | De 6,001 kg a 12,000 kg | 
+| D     | 7,500 kg | P, ó  PU, ó  U y T | Uno, o un T-S | 6de 12,001 a 25,000 kg | 
 
 ### Para grúas tipo plataforma de arrastre o arrastre y salvamento
 
 | Tipo | Peso vehicular <br> minimo del <br> chasis cabina| Clase de equipo de grua | Capacidad | Arraste de <br> vehiculos cuyo peso <br> bruto vehicular no <br> excedan de:|
 | :---  | :--- | :--- | :--- |  :--- |
-| A     | 2,300 kg | PL, o PL y W | Dos: <br> un vehiculo en plataforma <br> y otro arrastrando | 3,500 kg | 
-| B     | 3,500 kg | PL, o PL y W | Dos: <br> un vehiculo en plataforma <br> y otro arrastrando | De 3,501 kg a 6,000 kg | 
-| C     | 4,300 kg | PL, o PL-W,  o PL-PLS | Tres: <br> Dos vehiculos en plataforma <br> y otro arrastrando | De 6,001 kg a 12,000 kg | 
-| D     | 7,500 kg | PL, o PL y W,  o PL y PLS | Cuatro: <br> Tress vehiculos en plataforma <br> y otro arrastrando | 6de 12,001 a 25,000 kg | 
+| A     | 2,300 kg | PL, ó  PL y W | Dos: <br> un vehiculo en plataforma <br> y otro arrastrando | 3,500 kg | 
+| B     | 3,500 kg | PL, ó  PL y W | Dos: <br> un vehiculo en plataforma <br> y otro arrastrando | De 3,501 kg a 6,000 kg | 
+| C     | 4,300 kg | PL, ó  PL-W,  ó  PL-PLS | Tres: <br> Dos vehiculos en plataforma <br> y otro arrastrando | De 6,001 kg a 12,000 kg | 
+| D     | 7,500 kg | PL, ó  PL y W,  ó  PL y PLS | Cuatro: <br> Tress vehiculos en plataforma <br> y otro arrastrando | 6de 12,001 a 25,000 kg | 
 
 
 | Abreviatura  | Descripción    |  
