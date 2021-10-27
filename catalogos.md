@@ -1,6 +1,6 @@
 ## Catalogos Aplicables
 
-### Actividad industrial aplicable para proveedores y clientes B2B
+### Actividad industrial aplicable para proveedores (NAICS) y clientes B2B
 
 | Código | Descripción del Servicio |
 | :--- | :--- |
