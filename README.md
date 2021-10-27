@@ -24,7 +24,10 @@ Las tarifas máximas se aplicarán tomando como base el tiempo efectivo que dure
 | :---  | :--- | :--- | :--- |  :--- |
 | A     | 2,300 kg | PL, ó  PL y W | Dos: <br> un vehiculo en plataforma <br> y otro arrastrando | 3,500 kg | 
 | B     | 3,500 kg | PL, ó  PL y W | Dos: <br> un vehiculo en plataforma <br> y otro arrastrando | De 3,501 kg a 6,000 kg | 
-| C     | 4,300 kg | PL, ó  PL-W,  ó  PL-PLS | Tres: <br> Dos vehiculos en plataforma <br> y otro arrastrando | De 6,001 kg a 12,000 kg | 
+| C     | 4,300 kg | PL, ó  PL-W,  ó  PL-PLS | Tres: <br> Dos vehiculos en plataforma <br> y otro arrastrando | De 6,001 kg a 12,000 kg |
+
+[Entrenamiento Virtual SCT] (https://www.youtube.com/watch?v=hfzvJtGrDKM)
+
 | D     | 7,500 kg | PL, ó  PL y W,  ó  PL y PLS | Cuatro: <br> Tress vehiculos en plataforma <br> y otro arrastrando | 6de 12,001 a 25,000 kg | 
 
 
