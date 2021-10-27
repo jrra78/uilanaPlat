@@ -53,3 +53,22 @@
 | 30 | Veracruz de Ignacio de la Llave |
 | 31 | Yucatán |
 | 32 | Zacatecas |
+
+|Tipo de <br> servicio| Descripción del servicio |
+| :--- | :--- |
+| 1 | Fuera del camino |
+| 2 | Sobre el camino |
+
+
+|Tipo de <br> vehiculo| Descripcion del tipo de vehiculo |
+| :--- | :--- |
+| 1 | Motocicleta (chopper, deportiva, doble proposito, scooter, trabajo, turismo, urbana) |
+| 2 | Automovil (subcompacto, compacto, SUV, minivan |
+| 3 | Camion ligero (pickup, suburban)* |
+
+
+
+
+
+
+
