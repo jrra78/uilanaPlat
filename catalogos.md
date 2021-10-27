@@ -1,6 +1,6 @@
 ## Catalogos Aplicables
 
-### Actividad Industrial
+### Actividad industrial aplicable para proveedores y clientes B2B
 
 | Código | Descripción del Servicio |
 | :--- | :--- |
