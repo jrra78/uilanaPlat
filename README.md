@@ -16,7 +16,7 @@ Las tarifas máximas se aplicarán tomando como base el tiempo efectivo que dure
 | A     | 2,300 kg | P, ó PW ó W y T | Uno | 3,500 kg | 
 | B     | 3,500 kg | P, ó  PW ó  W y T | Uno | De 3,501 kg a 6,000 kg | 
 | C     | 4,300 kg | P, ó  PW, ó  PU, ó  U y T | Uno | De 6,001 kg a 12,000 kg | 
-| D     | 7,500 kg | P, ó  PU, ó  U y T | Uno, o un T-S | 6de 12,001 a 25,000 kg | 
+| D     | 7,500 kg | P, ó  PU, ó  U y T | Uno, o un T-S | De 12,001 a 25,000 kg | 
 
 ### Para grúas tipo plataforma de arrastre o arrastre y salvamento
 
