@@ -64,7 +64,10 @@
 | :--- | :--- |
 | 1 | Motocicleta (chopper, deportiva, doble proposito, scooter, trabajo, turismo, urbana) |
 | 2 | Automovil (subcompacto, compacto, SUV, minivan |
-| 3 | Camion ligero (pickup, suburban)* |
+| 3 | Camion ligero (pickup, suburban) - hasta 3,000 kg * |
+| 4 | Camion mediano (tractocamion, autobus) - hsata 6000 kg |
+| 5 | Camion, tractocamion, autobus - hasta 12,000 kgs* |
+| 5 | Camion, tractocamion con semiremolque, autobus - hasta 25,000 kgs* |
 
 
 
